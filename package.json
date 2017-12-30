@@ -1,0 +1,23 @@
+{
+  "name": "JS_lessons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liza908/JS_lessons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liza908/JS_lessons/issues"
+  },
+  "homepage": "https://github.com/Liza908/JS_lessons#readme",
+  "devDependencies": {
+    "@types/node": "^8.5.2"
+  }
+}
